@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nikita Sirohi</h1>
-<h3 align="center">I am pre-final year student at Galgotias University,Greater Noida passionate about learning new technologies.</h3>
+<h3 align="center"> I am skilled Computer Science graduate with a strong academic record (8.83/10 CGPA). Experienced in C++, Java, web technologies (HTML, CSS, JavaScript, Bootstrap), and tools like Git, Jira. 
+</h3>
 
 - 📫 How to reach me **nikitasirohi427@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nikita-sirohi-8829921aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nikita-sirohi-8829921aa/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/nikitasirohi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/nikitasirohi/" height="30" width="40" /></a>
+<a href="https://leetcode.com/harmony05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/nikitasirohi/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
